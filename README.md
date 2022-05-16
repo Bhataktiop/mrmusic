@@ -2,9 +2,6 @@
 
 
 
-  <details>
-<summary><b>🔗 Session String</b></summary>
-<br>
 
  
 # Deployments
